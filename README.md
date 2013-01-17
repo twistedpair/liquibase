@@ -1,5 +1,5 @@
-liquibase
-=========
+liquibase support for NuoDB
+===========================
 
 Fork for adding support for NuoDB. A quick grep search indicates the need to update
 * liquibase / liquibase-core / src / main / java / liquibase / database / core / NuoDbDatabase.java
